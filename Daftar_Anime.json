@@ -1,0 +1,74 @@
+{
+    "menu": [
+        {
+            "kategori": "Shonen Jump",
+            "nama": "Yakusoku no Neverland",
+            "deskripsi": "akusoku no Neverland atau The Promised Neverland. Serial ini bercerita mengenai perjuangan Emma dan teman-temannya, Norman dan Ray, untuk kabur dari Grace Field House yang tidak seindah kelihatannya setelah melihat salah satu teman mereka, Conny, terbunuh di gerbang rumah penjagalan berkedok panti asuhan itu. Mungkin, perjuangan Emma dan kawan-kawan inilah yang membuat pembaca menangis.",
+            "harga": 100000,
+            "gambar": "neverland.jpg"
+        },
+        {
+            "kategori": "Shonen Jump",
+            "nama": "Wing-Man",
+            "deskripsi": "Serial manga klasik bergenre science fiction ini rupanya menjadi salah satu serial manga yang dapat membuat pembaca Weekly Shonen Jump menangis. Wing-Man mengisahkan kehidupan Kenta Hirono, seorang pemuda yang sangat menyukai serial sentai superhero dan menciptakan sesosok superhero untuk dirinya sendiri yang bernama Wingman. Saat ia bertemu dengan Aoi Yume, seorang putri dari dunia lain bernama Podreams, ia dapat mengubah khayalan superhero-nya menjadi kenyataan.",
+            "harga": 100000,
+            "gambar": "wingman.jpg"
+        },
+        {
+            "kategori": "Shonen Jump",
+            "nama": "Hadashi no Gen",
+            "deskripsi": "Serial manga yang memiliki nama lain Barefoot Gen ini merupakan salah satu manga klasik dari Weekly Shonen Jump dan memiliki banyak fans dari perilisan awalnya pada tahun 1973 hingga 1987, bahkan sampai sekarang. Serial ini berkisah mengenai kehidupan Gen Nakaoka, seorang lelaki yang tinggal di Hiroshima pada masa akhir Perang Dunia II dan menjalani kehidupan yang keras di sana.",
+            "harga": 100000,
+            "gambar": "hadashi.jpg"
+        },
+        {
+            "kategori": "Shonen Jump",
+            "nama": "Haikyuu",
+            "deskripsi": "Serial manga yang memiliki nama lain Barefoot Gen ini merupakan salah satu manga klasik dari Weekly Shonen Jump dan memiliki banyak fans dari perilisan awalnya pada tahun 1973 hingga 1987, bahkan sampai sekarang. Serial ini berkisah mengenai kehidupan Gen Nakaoka, seorang lelaki yang tinggal di Hiroshima pada masa akhir Perang Dunia II dan menjalani kehidupan yang keras di sana.",
+            "harga": 100000,
+            "gambar": "haikyuu.jpg"
+        },
+        {
+            "kategori": "Kyoto Animation",
+            "nama": "A Silent Voice",
+            "deskripsi": "Koe no Katachi menceritakan seorang anak perempuan bernama Shoko Nishiyama. Ketika SD ia sering di-bully oleh teman-temannya karena Shoko adalah seorang pengidap tuna rungu. Di sisi lain ada Shoya Ishida, bocah laki-laki teman sekelas Shoko yang paling sering membully-nya.  ",
+            "harga": 50000,
+            "gambar": "A Silent Voice.jpg"
+        },
+        {
+            "kategori": "Kyoto Animation",
+            "nama": "Hyouka",
+            "deskripsi": "Hyouka menceritakan kisah Oreki Houtarou, anak laki-laki yang tidak suka membuang energinya. Meskipun begitu, Houtarou adalah anak yang sangar cerdas. Karena permintan kakaknya, ia terpaksa bergabung dengan klub sastra klasik yang sangat sedikit anggotanya. Hanya ada empat anggota termasuk dirinya. Tiga orang lainnya adalah Chitanda Eru, Mayaka Ibara, dan Satoshi Fukube.",
+            "harga": 50000,
+            "gambar": "Hyouka.jpg"
+        },
+        {
+            "kategori": "Kyoto Animation",
+            "nama": "Free",
+            "deskripsi": "Free! menceritakan empat anak laki-laki, yaitu yaitu Haruka, Makoto, Nagisa, dan Rin yang keempatnya merupakan atlet renang. Setelah lulus sekolah dasar, keempatnya berpisah dan baru dipertemukan kembali ketika SMA. ",
+            "harga": 69000,
+            "gambar": "Free.jpg"
+        },
+        {
+            "kategori": "Studio Bones",
+            "nama": "Fullmetal Alchemist: Brotherhood",
+            "deskripsi": "Anime ini menceritakan tentang petualangan Edward Elric dan adiknya Alphonse Elric, dalam menjadi Alkemis Negara untuk mengembalikan tubuh mereka. Sebelumnya, Elric bersaudara melakukan ritual terlarang, Transmutasi Manusia, untuk menghidupkan kembali ibu mereka yang sudah meninggal.",
+            "harga": 70000,
+            "gambar": "Fullmetal.jpg"
+        },
+        {
+            "kategori": "Studio Bones",
+            "nama": "Noragami",
+            "deskripsi": "Suatu hari, Yato diselamatkan oleh seorang gadis bernama Hiyori Iki dari sebuah kecelakaan mobil. Karena hal tersebut, jiwa Hiyori menjadi mudah terlepas. Setelah mengetahui bahwa Yato adalah dewa, Hiyori memohon pada Yato untuk mengembalikan jiwanya. ",
+            "harga":  1440000,
+            "gambar": "Noragami.jpg"
+        },
+        {
+            "kategori": "Studio Bones",
+            "nama": " Soul Eater",
+            "deskripsi": "Merupakan salah satu anime populer pada era 2000-an, Soul Eater adalah anime yang berlatarkan di Death City. Dalam kota tersebut, terdapat sebuah sekolah bernama Death Weapon Meister Academy.",
+            "harga": 940000,
+            "gambar": "Soul.jpg"
+        }
+    ]
+}
